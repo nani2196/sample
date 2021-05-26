@@ -6,7 +6,7 @@ public class sampleDemoClass {
 		
 		System.out.println("THis Is Sample Class");
 		
-		System.out.println("thanks");
+		System.out.println("thanks a lot");
 	}
 
 }
